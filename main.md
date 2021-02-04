@@ -74,7 +74,13 @@ Kids Camp:
 The **OpenKidsCamp** took place in August 2020. The content is geared at Secondary School kids and includes the 10 lessons from the OpenUK MiniMU glove course plus ezines and was accompanied by a give-away of 3000 special edition MiniMU Glove kits, created and distributed by Pimoroni, thanks to the support of Huawei. The content is creative commons licensed and available on an ongoing basis. You can visit the site [here.] (https://openuk.uk/openkidscamp/)
 Playlist: [here](https://youtube.com/playlist?list=PL0U2cL1JGPZcBEQU8sd6hnHjUra2Y0luZ)
 
-Image needs inserted here.
+Images need inserted here.
+
+We are a Phase two winner of the Gnome Community Challenge and thanks to the sponsorship of Red Hat will be producing a second course, ezine and camp in 2021 which will be themed on the Open Source Definition.
+
+Images need inserted here.
+
+**[Newsletter sign up.](http://eepurl.com/hj3kd5)** 
 
 
 **[Become a supporter](https://openuk.uk/become-a-supporter/)**
