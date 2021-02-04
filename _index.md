@@ -19,13 +19,19 @@ new_this_year: "We hosted our first OpenUK Awards in 2020, with 85 entries and 6
   \nWe have launched our first cohort of Community Ambassadors in January 2021\r\n\
   https://openuk.uk/ambassadors\r\nWe started 2021 by recognising 100 UK Influencers\
   \ in Open technology\r\nhttps://openuk.uk/2021HonoursList"
-showcase: "OpenUK is a unique organisation and advocacy group for Open\r\nWhilst working\
-  \ to develop UK leadership in Open Technology\r\n- the 3 opens, open source software,\
-  \ open hardware and open data\r\nIt promotes global collaboration and working with\
-  \ our colleagues outside of the UK\r\nOur projects sit under 3 pillars\r\n- Community\r\
-  \n- Legal and Policy\r\n- Learning\r\nLearn more about our awards, kids course,\
-  \ camp and competition and policy activities and much much more\r\nJoin us, sponsor\
-  \ us and participate in our activities for free"
+showcase: |
+  <p>OpenUK is a unique organisation and advocacy group for Open Technology, working
+  to develop UK leadership in Open Technology - the 3 opens, open source software,
+  open hardware and open data. It promotes global collaboration and working with
+  our colleagues outside of the UK.</p>
+  <p>Our projects sit under 3 pillars:</p>
+    <ul>
+      <li>Community</li>
+      <li>Legal and Policy</li>
+      <li>Learning</li>
+    </ul>
+  <p>Learn more about our awards, kids course, camp and competition, and policy activities and much much more.</p>
+  <p>Join us, sponsor us, or participate in our activities for free</p>
 themes:
 - Community advocacy
 title: OpenUK
