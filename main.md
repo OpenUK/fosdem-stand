@@ -2,7 +2,7 @@
 title: "About OpenUK"
 ---
 
-![OpenUK logo](/stands/mit_app_inventor/logo.png)
+![OpenUK logo](/stands/openuk/logo.png)
 
 
 ## About {#title}
