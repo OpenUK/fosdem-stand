@@ -1,9 +1,9 @@
 ---
 title: "About OpenUK"
 ---
-
-![OpenUK logo](/stands/openuk/logo.png)
-
+<p style="float: right;margin-left: 20px;width: 30%;">
+  <img src="/stands/openuk/logo.png" alt="OpenUK logo" style="width: 100%;">
+</p>
 
 ## About {#title}
 
