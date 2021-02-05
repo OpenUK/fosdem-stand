@@ -32,6 +32,7 @@ The British Honours system is something very specific to the UK and a means of r
 Congratulations to all of those listed. Enjoy the recognition of  a New Year’s Honour from your peers at OpenUK and we look forward to seeing all that you will achieve in Open Technology through 2021. You can view those listed [here.](https://openuk.uk/2021honourslist/)
 #OpenUKInfluencer
 
+Image needs inserted here
 
 ## Legal and Policy {#legalpolicy}
 
