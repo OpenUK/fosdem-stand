@@ -76,7 +76,7 @@ The **OpenKidsCamp** took place in August 2020. The content is geared at Seconda
 
 Playlist: [here](https://youtube.com/playlist?list=PL0U2cL1JGPZcBEQU8sd6hnHjUra2Y0luZ)
 
-![Poster](stands/openuk/A3poster.png)
+![Poster](/stands/openuk/A3poster.png)
 
 We are a Phase two winner of the Gnome Community Challenge and thanks to the sponsorship of Red Hat will be producing a second course, ezine and camp in 2021 which will be themed on the Open Source Definition.
 
