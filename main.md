@@ -7,15 +7,12 @@ title: "About OpenUK"
 
 ## About {#title}
 
-About OpenUK
+OpenUK coordinates the UK’s leadership in Open Technology, being the 3 Opens: open source software, open source hardware and open data. OpenUK promotes businesses, projects and people, who use and develop Open, and strives to collaborate across all existing organisations for Open through our 3 Pillars:
+* Community: creating a clear and loud voice for the Open Communities in the UK
+* Legal and Policy: making the UK a great place for Open and business using it
+* Learning: promoting education and learning in skills in Open Technology
 
-
-The UK organisation coordinating the UK’s leadership in Open Technology, being the 3 Opens: open source software, open source hardware and open data, across the UK. OpenUK promotes businesses, projects and people, who use and develop Open, and strives to collaborate across all existing organisations for Open through our 3 Pillars:
-* Community: creating a clear and loud voice for the Open Communities in the UK;
-* Legal and Policy: making the UK a great place for Open and business using it; and
-* Learning: by promoting education and learning in skills in Open Technology.
-
-We are a UK not for profit, industry organisation and advocacy body and you can contribute as a volunteer helping to manage the organisation, as an individual Supporter or a company partner, helping to fund the organisation or simply join one of our work groups.
+We are a UK not-for-profit, industry organisation and advocacy body. You can contribute as a volunteer helping to manage the organisation, as an individual Supporter or a company partner, helping to fund the organisation or simply join one of our work groups.
 
 You can see our current Partners [here.](https://openuk.uk/participants/partners/) 
 
@@ -31,7 +28,6 @@ The 2021 Influencers are 100 top Influencers across the UK’s Open Technology c
 They hail from all walks of Open Source Software, Open Hardware and Open Data. This is *the* list of those to watch in UK leadership in Open Technology in 2021. All have influenced and are influencing Open Technology whether through social media, their jobs, community contributions, policy or education.
 The British Honours system is something very specific to the UK and a means of rewarding an individual for their achievement or service. Medals are used within this system to recognise an activity or  long or valuable service.
 Congratulations to all of those listed. Enjoy the recognition of  a New Year’s Honour from your peers at OpenUK and we look forward to seeing all that you will achieve in Open Technology through 2021. You can view those listed [here.](https://openuk.uk/2021honourslist/)
-#OpenUKInfluencer
 
 ![Honours List logo](/stands/openuk/934E5B8C-6C69-4039-95B4-9E1E709CB512.png) 
 
