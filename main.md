@@ -22,7 +22,8 @@ You can see our current Partners [here.](https://openuk.uk/participants/partners
 
 ## Community {#community}
 
-The OpenUK Awards ceremony took place on the evening of 20 October 2020.We have awarded prizes for young people, individuals, projects and corporate usage in open source software, open hardware and open data.
+The OpenUK Awards ceremony took place on the evening of 20 October 2020.We have awarded prizes for young people, individuals, projects and corporate usage in open source software, open hardware and open data. You can watch the video [here.](https://youtu.be/RoauxllhIzk)
+
 
 **Honours List**
 
@@ -32,7 +33,7 @@ The British Honours system is something very specific to the UK and a means of r
 Congratulations to all of those listed. Enjoy the recognition of  a New Year’s Honour from your peers at OpenUK and we look forward to seeing all that you will achieve in Open Technology through 2021. You can view those listed [here.](https://openuk.uk/2021honourslist/)
 #OpenUKInfluencer
 
-Image needs inserted here
+![Honours List logo](/stands/openuk/934E5B8C-6C69-4039-95B4-9E1E709CB512.png) 
 
 ## Legal and Policy {#legalpolicy}
 
@@ -73,13 +74,19 @@ For upcoming Future Leaders Training...
 
 Kids Camp:
 The **OpenKidsCamp** took place in August 2020. The content is geared at Secondary School kids and includes the 10 lessons from the OpenUK MiniMU glove course plus ezines and was accompanied by a give-away of 3000 special edition MiniMU Glove kits, created and distributed by Pimoroni, thanks to the support of Huawei. The content is creative commons licensed and available on an ongoing basis. You can visit the site [here.] (https://openuk.uk/openkidscamp/)
+
+
+![Kids Camp Logo](/stands/openuk/kidscamp.png)
+
 Playlist: [here](https://youtube.com/playlist?list=PL0U2cL1JGPZcBEQU8sd6hnHjUra2Y0luZ)
 
-Images need inserted here.
+![Poster](stands/openuk/A3poster.png)
 
 We are a Phase two winner of the Gnome Community Challenge and thanks to the sponsorship of Red Hat will be producing a second course, ezine and camp in 2021 which will be themed on the Open Source Definition.
 
-Images need inserted here.
+![RedHat](/stands/openuk/redhat.png)
+
+    ![Medal](/stands/openuk/medal.png)
 
 **[Newsletter sign up.](http://eepurl.com/hj3kd5)** 
 
@@ -93,8 +100,6 @@ OpenUK is primarily run by a community of volunteers. Join a warm and welcoming 
 **For more information about the role or to apply contact Jamie.harper@openuk.uk**
 
 * [Ambassadors](https://openuk.uk/ambassadors/)
-* App Manager [JD to be provided today]
-* Business Development Rep [JD to be provided today]
 * [Chief Community Officer](https://openuk.uk/profiles/chief-community-officer/)
 * [Company Secretary](https://openuk.uk/profiles/company-secretary/) 
 * [CRM Manager](https://openuk.uk/profiles/crm-manager/)
