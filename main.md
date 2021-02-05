@@ -31,7 +31,7 @@ They hail from all walks of Open Source Software, Open Hardware and Open Data. T
 The British Honours system is something very specific to the UK and a means of rewarding an individual for their achievement or service. Medals are used within this system to recognise an activity or  long or valuable service.
 Congratulations to all of those listed. Enjoy the recognition of  a New Year’s Honour from your peers at OpenUK and we look forward to seeing all that you will achieve in Open Technology through 2021. You can view those listed [here.](https://openuk.uk/2021honourslist/)
 
-![Honours List logo](/stands/openuk/934E5B8C-6C69-4039-95B4-9E1E709CB512.png) 
+![Honours List logo](/stands/openuk/influencers.png) 
 
 ## Legal and Policy {#legalpolicy}
 
