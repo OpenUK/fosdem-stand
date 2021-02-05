@@ -12,15 +12,17 @@ OpenUK coordinates the UK’s leadership in Open Technology, being the 3 Opens: 
 * Legal and Policy: making the UK a great place for Open and business using it
 * Learning: promoting education and learning in skills in Open Technology
 
-We are a UK not-for-profit, industry organisation and advocacy body. You can contribute as a volunteer helping to manage the organisation, as an individual Supporter or a company partner, helping to fund the organisation or simply join one of our work groups.
+We are a UK not-for-profit, industry organisation and advocacy body. You can contribute as a volunteer helping to manage the organisation, as an individual Supporter or a company partner, helping to fund the organisation or simply join one of our work groups. See below for our [Job Vacancies](#jobs)
 
-You can see our current Partners [here.](https://openuk.uk/participants/partners/) 
+You can see our current Partners [here](https://openuk.uk/participants/partners/). 
 
+**[Newsletter sign up](http://eepurl.com/hj3kd5)** 
+
+**[Become a supporter](https://openuk.uk/become-a-supporter/)**
 
 ## Community {#community}
 
 The OpenUK Awards ceremony took place on the evening of 20 October 2020.We have awarded prizes for young people, individuals, projects and corporate usage in open source software, open hardware and open data. You can watch the video [here.](https://youtu.be/RoauxllhIzk)
-
 
 **Honours List**
 
@@ -84,12 +86,7 @@ We are a Phase two winner of the Gnome Community Challenge and thanks to the spo
 
 ![Medal](/stands/openuk/medal.png)
 
-**[Newsletter sign up.](http://eepurl.com/hj3kd5)** 
-
-
-**[Become a supporter](https://openuk.uk/become-a-supporter/)**
-
-**Job Vacancies:**
+## Job Vacancies {#jobs}
 
 OpenUK is primarily run by a community of volunteers. Join a warm and welcoming group with work timed to suit the successful candidate’s availability.
 
@@ -103,3 +100,6 @@ OpenUK is primarily run by a community of volunteers. Join a warm and welcoming 
 * [General Council](https://openuk.uk/profiles/general-counsel/)
 * [Project Manager Learning](https://openuk.uk/profiles/project-manager-learning/)
 
+**[Newsletter sign up](http://eepurl.com/hj3kd5)** 
+
+**[Become a supporter](https://openuk.uk/become-a-supporter/)**
