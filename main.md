@@ -86,7 +86,7 @@ We are a Phase two winner of the Gnome Community Challenge and thanks to the spo
 
 ![RedHat](/stands/openuk/redhat.png)
 
-    ![Medal](/stands/openuk/medal.png)
+![Medal](/stands/openuk/medal.png)
 
 **[Newsletter sign up.](http://eepurl.com/hj3kd5)** 
 
