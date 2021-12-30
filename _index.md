@@ -21,8 +21,8 @@ showcase: |
       <li>Legal and Policy</li>
       <li>Learning</li>
     </ul>
-  <p>Learn more about our awards, kids course, camp and competition, and policy activities and much much more.</p>
-  <p>Join us, sponsor us, or participate in our activities for free</p>
+  <p>Learn more about our awards, kids course, camp and competition, and policy activities and much, much more.</p>
+  <p>Join us, sponsor us, or participate in our activities for free.</p>
 themes:
 - Community advocacy
 title: OpenUK
