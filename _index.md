@@ -30,6 +30,18 @@ All are earmarked as leading the next generation of Open Technology whether thro
   <p>The Entrepreneur in Residence and Founders Forum is offering mentoring to a small group of UK based individuals. Interested Founders or potential Founders will be selected from applications received with mentees matched with our team for one to one mentoring sessions and to offer support for the evolution of an ever stronger UK Open Technology business ecosystem.</p>
 
   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSetOuhxt_66CSs84WsW989BuCShKZp0vYzED8Q3mYjhZcqbyA/viewform">Apply here for mentoring</a></p>
+  
+  <h1>Find out more</h1>
+  <p>Find out more about OpenUK’s activities on our <a href="https://openuk.uk">web site</a> and in our press.
+  Follow us on social media or <a href="https://openuk.us4.list-manage.com/subscribe?u=9d6308e45152bb731122903de&id=34b8a50cce">join our newsletter</a> for updates.</p>
+  
+  <p>
+    <a href="https://twitter.com/openuk_uk"><img src="https://stands.fosdem.org/stands/openuk/twitter.png"></a> 
+    <a href="https://www.linkedin.com/company/openuktechnology"><img src="https://stands.fosdem.org/stands/openuk/linkedin64.png"></a> 
+    <a href="https://www.instagram.com/openuk.uk/"><img src="https://stands.fosdem.org/stands/openuk/instagram.png"></a> 
+    <a href="https://github.com/OpenUK"><img src="https://stands.fosdem.org/stands/openuk/github.png"></a>
+  </p>
+  
 showcase: |
   <p>OpenUK is the UK organisation for the <b>business of Open Technology</b> delivering our activities through 3 pillars:</p>
   <ul>
