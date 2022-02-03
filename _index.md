@@ -10,11 +10,11 @@ new_this_year: |
   
   <p>With a focus on **Skills**, **Security**, and **Sustainability**, we started 2022 by celebrating the **New Year’s Honours List** and launching the ten **Future Founders Training Sessions** set up by Matt Barker our Entrepreneur in Residence, and the Founders Forum.  The training sessions are ongoing with the next session happening on **12 noon GMT 25th February**.  We are also offering a **Mentoring Program** to a small group of UK based individuals.</p>
 
-<p>And that’s just the beginning. **Security** and **Sustainability** Advisory Boards are being created and we welcome involvement from those interested in these areas.  We’re already planning our second **Open Technology for Sustainability Day** and the Third Edition of the **OpenUK Awards** happening later this year.</p>  
+  <p>And that’s just the beginning. **Security** and **Sustainability** Advisory Boards are being created and we welcome involvement from those interested in these areas.  We’re already planning our second **Open Technology for Sustainability Day** and the Third Edition of the **OpenUK Awards** happening later this year.</p>  
 
-<p>In **Learning and Skills**, the Learning Team is growing, continuing to develop the Kids Camp with a further OpenUK digital glove inspired by MiMu give away and competition.</p>
+  <p>In **Learning and Skills**, the Learning Team is growing, continuing to develop the Kids Camp with a further OpenUK digital glove inspired by MiMu give away and competition.</p>
 
-<p>We are also working on an **Apprenticeship Scheme Knowledge Module** and **University Modules** for engineering, business and legal and regulatory students.</p> 
+  <p>We are also working on an **Apprenticeship Scheme Knowledge Module** and **University Modules** for engineering, business and legal and regulatory students.</p> 
   
   <h3>Honours List</h3>
   <p>We kicked off 2022 with the <a href="https://openuk.uk/2022honourslist/">OpenUK New Year’s Honours List </a>celebrating future generations of Open Technologists. 
@@ -50,7 +50,7 @@ new_this_year: |
   
   <h1>Find out more</h1>
   <p>Find out more about OpenUK’s activities on our <a href="https://openuk.uk">web site</a> and in our press.
-  Follow us on social media or <a href="https://openuk.us4.list-manage.com/subscribe?u=9d6308e45152bb731122903de&id=34b8a50cce">join our newsletter</a> for updates.</p>
+  Follow us on social media or <a href="https://openuk.us4.list-manage.com/subscribe?u=9d6308e45152bb731122903de&id=34b8a50cce">join our newsletter</a> for updates.   </p>
   
   <p>
     <a href="https://twitter.com/openuk_uk"><img src="https://stands.fosdem.org/stands/openuk/Twitter.png"></a> 
