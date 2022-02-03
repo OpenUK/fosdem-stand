@@ -36,10 +36,10 @@ All are earmarked as leading the next generation of Open Technology whether thro
   Follow us on social media or <a href="https://openuk.us4.list-manage.com/subscribe?u=9d6308e45152bb731122903de&id=34b8a50cce">join our newsletter</a> for updates.</p>
   
   <p>
-    <a href="https://twitter.com/openuk_uk"><img src="https://stands.fosdem.org/stands/openuk/twitter.png"></a> 
-    <a href="https://www.linkedin.com/company/openuktechnology"><img src="https://stands.fosdem.org/stands/openuk/linkedin64.png"></a> 
-    <a href="https://www.instagram.com/openuk.uk/"><img src="https://stands.fosdem.org/stands/openuk/instagram.png"></a> 
-    <a href="https://github.com/OpenUK"><img src="https://stands.fosdem.org/stands/openuk/github.png"></a>
+    <a href="https://twitter.com/openuk_uk"><img src="https://stands.fosdem.org/stands/openuk/Twitter.png"></a> 
+    <a href="https://www.linkedin.com/company/openuktechnology"><img src="https://stands.fosdem.org/stands/openuk/LinkedIn.png"></a> 
+    <a href="https://www.instagram.com/openuk.uk/"><img src="https://stands.fosdem.org/stands/openuk/Insta.png"></a> 
+    <a href="https://github.com/OpenUK"><img src="https://stands.fosdem.org/stands/openuk/GitHub.png"></a>
   </p>
   
 showcase: |
