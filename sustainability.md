@@ -2,6 +2,8 @@
 title: "Open Technology for Sustainability Day"
 ---
 
+![OpenUK Open Technology for Sustainability Day Banner](https://stands.fosdem.org/stands/openuk/copday.png)
+
 Our inaugural [Open Technology for Sustainability Day](https://openuk.uk/sustainability/) was held at COP26, Glasgow on 11th November 2021 with standing room only for much of the event with a keynote from Francis Maude, interviews with young environmental activists by our Chief Sustainability Officer, Cristian Parrino, and panels including collaboration, energy and more. You can watch videos of our various sessions Open Technology for Sustainability Day on our website and get a taster 
 in this [short video](https://video.fosdem.org/2022/stands/openuk/stand_video_openuk_video3.mp4)
 
