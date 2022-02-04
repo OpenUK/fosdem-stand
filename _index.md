@@ -10,9 +10,9 @@ new_this_year: |
   <p><small>A reminder of what OpenUK go up to in 2021</small></p>
 </div>
   
-  <p>With a focus on <b>Skills</b>, <b>Security</b>, and <b>Sustainability</b>, we started 2022 by celebrating the <a href="#honours"><b>New Year’s Honours List</b></a> and launching the ten <a href="#founders"><b>Future Founders Training Sessions</b></a> set up by Matt Barker our Entrepreneur in Residence, and the Founders Forum.  The training sessions are ongoing with the next session happening at <b>12 noon GMT 25th February</b>.  We are also offering a <a href="mentoring"><b>Mentoring Program</b></a> to a small group of UK based individuals.</p>
+  <p>With a focus on <b>Skills</b>, <b>Security</b>, and <b>Sustainability</b>, we started 2022 by celebrating the <a href="#honours"><b>New Year’s Honours List</b></a> and launching the ten <a href="#founders"><b>Future Founders Training Sessions</b></a> set up by Matt Barker our Entrepreneur in Residence, and the Founders Forum.  The training sessions are ongoing with the next session happening at <b>12 noon GMT 25th February</b>.  We are also offering a <a href="#mentoring"><b>Mentoring Program</b></a> to a small group of UK based individuals.</p>
   
-  <p>We'll be following up our <a href="reports"><b>State of Open Reports</b></a> from last year with another three reports.</p>
+  <p>We'll be following up our <a href="#reports"><b>State of Open Reports</b></a> from last year with another three reports.</p>
   
   <p>As a <b>Day One Member of GAIA-X</b>, Open UK has been asked to lead on a possible UK hub. There will be an introductory session on this on <b>9 February, 2.30pm-4.00pm GMT</b>. All are welcome.  If interested in attending, please contact <a href="mailto:admin@openuk.uk"><b>admin@openuk.uk</b></a>.</p>
 
@@ -56,7 +56,9 @@ new_this_year: |
   <a id="mentoring"><h3>Future Founders Mentoring Program</h3></a>
   
   <p>The Entrepreneur in Residence and Founders Forum is offering mentoring to a small group of UK based individuals. Interested Founders or potential Founders will be selected from applications received with mentees matched with our team for one to one mentoring sessions and to offer support for the evolution of an ever stronger UK Open Technology business ecosystem.</p>
-  
+
+  <p><a href="https://openuk.uk/foundersforum/"><b>Find out more</b></a></p>
+
   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSetOuhxt_66CSs84WsW989BuCShKZp0vYzED8Q3mYjhZcqbyA/viewform"><b>Apply here for mentoring</b></a></p>
   
   <a id="reports"><h3>State of Open Reports</h3></a>
