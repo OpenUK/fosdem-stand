@@ -4,59 +4,69 @@ description: |
 layout: stand
 logo: stands/openuk/openuklogo.png
 new_this_year: | 
-  <video width="320" height="240" controls>
+  <div style="float:right;margin-left:20px;margin-bottom:20px"><video width="320" height="240" controls style="border:1px solid rgba(0,0,0,.125)">
   <source src="https://video.fosdem.org/2022/stands/openuk/stand_video_openuk_video1.mp4" type="video/mp4">
-  </video>
+  </video></div>
   
-  <p>With a focus on **Skills**, **Security**, and **Sustainability**, we started 2022 by celebrating the **New Year’s Honours List** and launching the ten **Future Founders Training Sessions** set up by Matt Barker our Entrepreneur in Residence, and the Founders Forum.  The training sessions are ongoing with the next session happening on **12 noon GMT 25th February**.  We are also offering a **Mentoring Program** to a small group of UK based individuals.</p>
+  <p>With a focus on <b>Skills</b>, <b>Security</b>, and <b>Sustainability</b>, we started 2022 by celebrating the <a href="#honours"><b>New Year’s Honours List</b></a> and launching the ten <a href="#founders"><b>Future Founders Training Sessions</b></a> set up by Matt Barker our Entrepreneur in Residence, and the Founders Forum.  The training sessions are ongoing with the next session happening on <b>12 noon GMT 25th February</b>.  We are also offering a <b>Mentoring Program</b> to a small group of UK based individuals.</p>
 
-  <p>And that’s just the beginning. **Security** and **Sustainability** Advisory Boards are being created and we welcome involvement from those interested in these areas.  We’re already planning our second **Open Technology for Sustainability Day** and the Third Edition of the **OpenUK Awards** happening later this year.</p>  
+  <p>And that’s just the beginning. <a href="boards"><b>Security</b> and <b>Sustainability</b> Advisory Boards</a> are being created and we welcome involvement from those interested in these areas.  We’re already planning our second <a href="sustainability"><b>Open Technology for Sustainability Day</b></a> and the Third Edition of the <a href="awards"><b>OpenUK Awards</b></a> happening later this year.</p>  
 
-  <p>In **Learning and Skills**, the Learning Team is growing, continuing to develop the Kids Camp with a further OpenUK digital glove inspired by MiMu give away and competition.</p>
+  <p>In <a href="learning"><b>Learning and Skills</b></a>, the Learning Team is growing, continuing to develop the Kids Camp with a further OpenUK digital glove inspired by MiMu give away and competition.</p>
 
-  <p>We are also working on an **Apprenticeship Scheme Knowledge Module** and **University Modules** for engineering, business and legal and regulatory students.</p> 
+  <p>We are also working on an <b>Apprenticeship Scheme Knowledge Module</b> and <b>University Modules</b> for engineering, business and legal and regulatory students.</p> 
   
-  <h3>Honours List</h3>
+  <a id="honours"><h3>Honours List</h3></a>
   <p>We kicked off 2022 with the <a href="https://openuk.uk/2022honourslist/">OpenUK New Year’s Honours List </a>celebrating future generations of Open Technologists. 
   The list is made up of individuals identified as being ones to watch in the UK in Open Source Software, Open Hardware and Open Data. 
   All are earmarked as leading the next generation of Open Technology whether through social media, their jobs, community contributions, policy or in education.</p>
 
   <h3>Founders Forum Training and Mentoring</h3>
   
-  <p>Matt Barker, founder of JetStack is OpenUK’s Entrepreneur in Residence leading our Founders Forum. As a result of their <a href="https://openuk.uk/wp-content/uploads/2021/11/founders_forum_report.pdf">initial findings</a>, OpenUK Founders Forum Training Program has been set up for anyone developing skills in open technology and business. 10 weekly sessions taking place digitally on Fridays at noon led by the Founders Forum and Legal Group, people with experience at the coal face of Open Tech. Whilst the sessions have started, it’s <a href="https://openuk.uk/foundersforum/">not too late to get involved</a> and you can <a href="https://openuk.uk/foundersforum/#ffvideos">watch videos of past sessions</a>.</p>
+  <div style="float:right;margin-left:20px; margin-bottom:20px;">
+  <video width="320" height="240" controls style="border:1px solid rgba(0,0,0,.125)">
+  <source src="https://video.fosdem.org/2022/stands/openuk/stand_video_openuk_video2.mp4" type="video/mp4">
+  </video>
+  <p><small>Watch the Future Founders Training Session 1</small></p>
+  </div>
 
-  <ul style="list-style-type:none;">
-  <li>**21 January** - Session 1 - **Introductory session:  Why found an Open Source Business?**</li>
-  <li>**28 January** - Session 2 - **Product Market Fit / Developing a Product**</li>
-  <li>**4 February** - Session 3 - **Corporate Structure and IP considerations for Open Tech businesses, Open Source Licensing**</li>
-  <li>**25 February** - Session 4 - **Got To Market / Marketing**</li>
-  <li>**4 March** - Session 5 - **Revenue Generation and Models / Pricing and Packaging**</li>
-  <li>**11 March** - Session 6 - **Founder Experience, Raising and Runway**</li>
-  <li>**18 March** - Session 7 - **Contracts and Open Source**</li>
-  <li>**25 March** - Session 8 - **Community, DevRel, Foundations**</li>
-  <li>**1 April** - Session 9 - **People, Hiring and Scaling**</li>
-  <li>**29 April** - Session 10 -  **Pitch your start up to our Founder Forum Founders**</li>
-  </ul>
+  <p>Matt Barker, founder of JetStack is OpenUK’s Entrepreneur in Residence leading our Founders Forum. As a result of their <a href="https://openuk.uk/wp-content/uploads/2021/11/founders_forum_report.pdf">initial findings</a>, OpenUK Founders Forum Training Program has been set up for anyone developing skills in open technology and business. 10 weekly sessions taking place digitally on Fridays at noon led by the Founders Forum and Legal Group, people with experience at the coal face of Open Tech.</p><p>Whilst the sessions have started, it’s <a href="https://openuk.uk/foundersforum/">not too late to get involved</a> and you can <a href="https://openuk.uk/foundersforum/#ffvideos">watch videos of past sessions</a>.</p>  
+    
+  
+
+  <table style="margin:20px;" class="table">
+  <tr><th>Session</th><th>Date</th><th>Topic</th></tr>
+  <tr><td>1</td><td>21 January</td><td><b>Introductory session:  Why found an Open Source Business?</b></td></tr>
+  <tr><td>2</td><td>28 January</td><td><b>Product Market Fit / Developing a Product</b></td></tr>
+  <tr><td>3</td><td>4 February</td><td><b>Corporate Structure and IP considerations for Open Tech businesses, Open Source Licensing</b></td></tr>
+  <tr><td>4</td><td>25 February</td><td><b>Go To Market / Marketing</b></td></tr>
+  <tr><td>5</td><td>4 March</td><td><b>Revenue Generation and Models / Pricing and Packaging</b></td></tr>
+  <tr><td>6</td><td>11 March</td><td><b>Founder Experience, Raising and Runway</b></td></tr>
+  <tr><td>7</td><td>18 March</td><td><b>Contracts and Open Source</b></td></tr>
+  <tr><td>8</td><td>25 March</td><td><b>Community, DevRel, Foundations</b></td></tr>
+  <tr><td>9</td><td>1 April</td><td><b>People, Hiring and Scaling</b></td></tr>
+  <tr><td>10</td><td>29 April</td><td><b>Pitch your start up to our Founder Forum Founders</b></td></tr>
+  </tbody>
+  </table>
 
   <h3>Future Founders Mentoring Program</h3>
+
+  
   <p>The Entrepreneur in Residence and Founders Forum is offering mentoring to a small group of UK based individuals. Interested Founders or potential Founders will be selected from applications received with mentees matched with our team for one to one mentoring sessions and to offer support for the evolution of an ever stronger UK Open Technology business ecosystem.</p>
 
   <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSetOuhxt_66CSs84WsW989BuCShKZp0vYzED8Q3mYjhZcqbyA/viewform">Apply here for mentoring</a></p>
   
-  <p>Watch the Future Founders Training Session 1:</p>
-  <video width="320" height="240" controls>
-  <source src="https://video.fosdem.org/2022/stands/openuk/stand_video_openuk_video2.mp4" type="video/mp4">
-  </video>
+ 
   
   <h1>Find out more</h1>
   <p>Find out more about OpenUK’s activities on our <a href="https://openuk.uk">web site</a> and in our press.
   Follow us on social media or <a href="https://openuk.us4.list-manage.com/subscribe?u=9d6308e45152bb731122903de&id=34b8a50cce">join our newsletter</a> for updates.   </p>
   
   <p>
-    <a href="https://twitter.com/openuk_uk"><img src="https://stands.fosdem.org/stands/openuk/Twitter.png"></a> 
-    <a href="https://www.linkedin.com/company/openuktechnology"><img src="https://stands.fosdem.org/stands/openuk/LinkedIn.png"></a> 
-    <a href="https://www.instagram.com/openuk.uk/"><img src="https://stands.fosdem.org/stands/openuk/Insta.png"></a> 
-    <a href="https://github.com/OpenUK"><img src="https://stands.fosdem.org/stands/openuk/GitHub.png"></a>
+    <a href="https://twitter.com/openuk_uk"><img src="https://stands.fosdem.org/stands/openuk/Twitter.png" width=64 style="padding-right: 10px"></a> 
+    <a href="https://www.linkedin.com/company/openuktechnology"><img src="https://stands.fosdem.org/stands/openuk/LinkedIn.png" width=64  style="padding-right: 10px"></a> 
+    <a href="https://www.instagram.com/openuk.uk/"><img src="https://stands.fosdem.org/stands/openuk/Insta.png" width=64  style="padding-right: 10px"></a> 
+    <a href="https://github.com/OpenUK"><img src="https://stands.fosdem.org/stands/openuk/GitHub.png" width=64  style="padding-right: 10px"></a>
   </p>
   
 showcase: |
