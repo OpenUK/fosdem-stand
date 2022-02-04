@@ -70,7 +70,7 @@ new_this_year: |
   </p>
   
 showcase: |
-  <img src="https://stands.fosdem.org/stands/openuk/logo.png" width="25%" />
+  <img style="padding-bottom: 6px" src="https://stands.fosdem.org/stands/openuk/logo.png" width="25%" />
   
   
   <p>OpenUK is the UK organisation for the <b>business of Open Technology</b> delivering our activities through 3 pillars:</p>
