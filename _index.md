@@ -8,7 +8,7 @@ new_this_year: |
   <source src="https://video.fosdem.org/2022/stands/openuk/stand_video_openuk_video1.mp4" type="video/mp4">
   </video></div>
   
-  <p>With a focus on <b>Skills</b>, <b>Security</b>, and <b>Sustainability</b>, we started 2022 by celebrating the <a href="#honours"><b>New Year’s Honours List</b></a> and launching the ten <a href="#founders"><b>Future Founders Training Sessions</b></a> set up by Matt Barker our Entrepreneur in Residence, and the Founders Forum.  The training sessions are ongoing with the next session happening on <b>12 noon GMT 25th February</b>.  We are also offering a <a href="mentoring"><b>Mentoring Program</b> to a small group of UK based individuals.</p>
+  <p>With a focus on <b>Skills</b>, <b>Security</b>, and <b>Sustainability</b>, we started 2022 by celebrating the <a href="#honours"><b>New Year’s Honours List</b></a> and launching the ten <a href="#founders"><b>Future Founders Training Sessions</b></a> set up by Matt Barker our Entrepreneur in Residence, and the Founders Forum.  The training sessions are ongoing with the next session happening at <b>12 noon GMT 25th February</b>.  We are also offering a <a href="mentoring"><b>Mentoring Program</b> to a small group of UK based individuals.</p>
 
   <p>And that’s just the beginning. <a href="boards"><b>Security and Sustainability Advisory Boards</b></a> are being created and we welcome involvement from those interested in these areas.  We’re already planning our second <a href="sustainability"><b>Open Technology for Sustainability Day</b></a> and the Third Edition of the <a href="awards"><b>OpenUK Awards</b></a> happening later this year.</p>  
 
@@ -59,7 +59,7 @@ new_this_year: |
  
   
   <h1>Find out more</h1>
-  <p>Find out more about OpenUK’s activities on our <a href="https://openuk.uk">web site</a> and in our press.
+  <p>Find out more about OpenUK’s activities on our <a href="https://openuk.uk">web site</a>.
   Follow us on social media or <a href="https://openuk.us4.list-manage.com/subscribe?u=9d6308e45152bb731122903de&id=34b8a50cce">join our newsletter</a> for updates.   </p>
   
   <p>
