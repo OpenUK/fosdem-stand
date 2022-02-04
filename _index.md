@@ -10,7 +10,7 @@ new_this_year: |
   
   <p>With a focus on <b>Skills</b>, <b>Security</b>, and <b>Sustainability</b>, we started 2022 by celebrating the <a href="#honours"><b>New Year’s Honours List</b></a> and launching the ten <a href="#founders"><b>Future Founders Training Sessions</b></a> set up by Matt Barker our Entrepreneur in Residence, and the Founders Forum.  The training sessions are ongoing with the next session happening on <b>12 noon GMT 25th February</b>.  We are also offering a <a href="mentoring"><b>Mentoring Program</b> to a small group of UK based individuals.</p>
 
-  <p>And that’s just the beginning. <a href="boards"><b>Security and Sustainability Advisory Boards</a> are being created and we welcome involvement from those interested in these areas.  We’re already planning our second <a href="sustainability"><b>Open Technology for Sustainability Day</b></a> and the Third Edition of the <a href="awards"><b>OpenUK Awards</b></a> happening later this year.</p>  
+  <p>And that’s just the beginning. <a href="boards"><b>Security and Sustainability Advisory Boards</b></a> are being created and we welcome involvement from those interested in these areas.  We’re already planning our second <a href="sustainability"><b>Open Technology for Sustainability Day</b></a> and the Third Edition of the <a href="awards"><b>OpenUK Awards</b></a> happening later this year.</p>  
 
   <p>In <a href="learning"><b>Learning and Skills</b></a>, the Learning Team is growing, continuing to develop the Kids Camp with a further OpenUK digital glove inspired by MiMu give away and competition.</p>
 
@@ -70,7 +70,7 @@ new_this_year: |
   </p>
   
 showcase: |
-  <img src="https://stands.fosdem.org/stands/openuk/logo.png" width="100%" />
+  <img src="https://stands.fosdem.org/stands/openuk/logo.png" width="25%" />
   
   <p>OpenUK is the UK organisation for the <b>business of Open Technology</b> delivering our activities through 3 pillars:</p>
   <ul>
