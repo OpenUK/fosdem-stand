@@ -14,7 +14,7 @@ new_this_year: |
   
   <p>We'll be following up our <a href="#reports"><b>State of Open Reports</b></a> from last year with another three reports.</p>
   
-  <p>As a <b>Day One Member of GAIA-X</b>, Open UK has been asked to lead on a possible UK hub. There will be an introductory session on this on <b>9 February, 2.30pm-4.00pm GMT</b>. All are welcome.  If interested in attending, please contact <a href="mailto:admin@openuk.uk"><b>admin@openuk.uk</b></a>.</p>
+  <p>As a <b>Day One Member of GAIA-X</b>, Open UK has been asked to lead on a possible UK hub. There will be an introductory session on this on <b>9 February, 2.30pm-4.00pm GMT</b>. All are welcome. If interested in attending, please contact <a href="mailto:admin@openuk.uk"><b>admin@openuk.uk</b></a>.</p>
 
   <p><a href="boards"><b>Security and Sustainability Advisory Boards</b></a> are being created and we welcome involvement from those interested in these areas.  We’re already planning our second <a href="sustainability"><b>Open Technology for Sustainability Day</b></a> and the Third Edition of the <a href="awards"><b>OpenUK Awards</b></a> happening later this year.</p>  
 
