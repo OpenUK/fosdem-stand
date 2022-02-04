@@ -8,7 +8,7 @@ new_this_year: |
   <source src="https://video.fosdem.org/2022/stands/openuk/stand_video_openuk_video1.mp4" type="video/mp4">
   </video></div>
   
-  <p>With a focus on <b>Skills</b>, <b>Security</b>, and <b>Sustainability</b>, we started 2022 by celebrating the <a href="#honours"><b>New Year’s Honours List</b></a> and launching the ten <a href="#founders"><b>Future Founders Training Sessions</b></a> set up by Matt Barker our Entrepreneur in Residence, and the Founders Forum.  The training sessions are ongoing with the next session happening at <b>12 noon GMT 25th February</b>.  We are also offering a <a href="mentoring"><b>Mentoring Program</b> to a small group of UK based individuals.</p>
+  <p>With a focus on <b>Skills</b>, <b>Security</b>, and <b>Sustainability</b>, we started 2022 by celebrating the <a href="#honours"><b>New Year’s Honours List</b></a> and launching the ten <a href="#founders"><b>Future Founders Training Sessions</b></a> set up by Matt Barker our Entrepreneur in Residence, and the Founders Forum.  The training sessions are ongoing with the next session happening at <b>12 noon GMT 25th February</b>.  We are also offering a <a href="mentoring"><b>Mentoring Program</b></a> to a small group of UK based individuals.</p>
 
   <p>And that’s just the beginning. <a href="boards"><b>Security and Sustainability Advisory Boards</b></a> are being created and we welcome involvement from those interested in these areas.  We’re already planning our second <a href="sustainability"><b>Open Technology for Sustainability Day</b></a> and the Third Edition of the <a href="awards"><b>OpenUK Awards</b></a> happening later this year.</p>  
 
@@ -70,7 +70,7 @@ new_this_year: |
   </p>
   
 showcase: |
-  <img style="padding-bottom: 6px" src="https://stands.fosdem.org/stands/openuk/logo.png" width="25%" />
+  <img style="padding-bottom: 12px" src="https://stands.fosdem.org/stands/openuk/logo.png" width="25%" />
   
   
   <p>OpenUK is the UK organisation for the <b>business of Open Technology</b> delivering our activities through 3 pillars:</p>
