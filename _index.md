@@ -23,16 +23,16 @@ new_this_year: |
   <p>We are also working on an <b>Apprenticeship Scheme Knowledge Module</b> and <b>University Modules</b> for engineering, business and legal and regulatory students.</p> 
   
   <a id="honours"><h3>Honours List</h3></a>
-    <a href="https://openuk.uk/2022honourslist" target="_blank"><img src="https://stands.fosdem.org/stands/openuk/honours.jpeg" width="100%" /></a>
+    <a href="https://openuk.uk/2022honourslist" target="_blank"><img style="padding-bottom: 12px" src="https://stands.fosdem.org/stands/openuk/honours.jpeg" width="100%" /></a>
   <p>We kicked off 2022 with the <a href="https://openuk.uk/2022honourslist/"><b>OpenUK New Year’s Honours List</b></a> celebrating future generations of Open Technologists. 
   The list is made up of individuals identified as being ones to watch in the UK in Open Source Software, Open Hardware and Open Data. 
   All are earmarked as leading the next generation of Open Technology whether through social media, their jobs, community contributions, policy or in education.</p>
 
   <a id="founders"><h3>Founders Forum Training and Mentoring</h3></a>
   
-  <a href="https://openuk.uk/foundersforum" target="_blank"><img src="https://stands.fosdem.org/stands/openuk/futurefounders.png" width="100%" /></a>
+  <a style="padding-bottom: 12px" href="https://openuk.uk/foundersforum" target="_blank"><img src="https://stands.fosdem.org/stands/openuk/futurefounders.png" width="100%" /></a>
   
-  <div style="float:right;margin-left:20px; margin-bottom:20px;">
+  <div style="float:right;margin-left:20px; margin-bottom:20px; margin-top:20px;">
   <video width="320" height="240" controls style="border:1px solid rgba(0,0,0,.125)">
   <source src="https://video.fosdem.org/2022/stands/openuk/stand_video_openuk_video2.mp4" type="video/mp4">
   </video>
@@ -71,7 +71,7 @@ new_this_year: |
   
   <a id="reports"><h3>State of Open Reports</h3></a>
   
-  <a href="https://openuk.uk/stateofopen" target="_blank"><img src="https://stands.fosdem.org/stands/openuk/reportsfull.png" width="100%" /></a>
+  <a href="https://openuk.uk/stateofopen" target="_blank"><img style="padding-bottom: 12px" src="https://stands.fosdem.org/stands/openuk/reportsfull.png" width="100%" /></a>
 
   
   <p>In 2021, we released the <a href="https://openuk.uk/stateofopen/"><b>State of Open Reports</b></a> in three phases looking at open source software in the UK:</p>
@@ -105,11 +105,7 @@ new_this_year: |
   
 showcase: |
 
-<div>
-  <center>
-    <img style="padding-bottom: 12px" src="https://stands.fosdem.org/stands/openuk/logo.png" width="25%" />
-  </center>
-</div>
+  <img style="padding-bottom: 12px" src="https://stands.fosdem.org/stands/openuk/logo.png" width="25%" />
         
   <p>OpenUK is the UK organisation for the <b>business of Open Technology</b> delivering our activities through 3 pillars:</p>
   <ul>
