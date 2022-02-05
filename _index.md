@@ -24,7 +24,7 @@ new_this_year: |
   
   <a id="honours"><h3>Honours List</h3></a>
 
-<div>
+  <div>
   <center>
     <a href="https://openuk.uk/2022honourslist" target="_blank"><img style="padding-bottom: 12px" src="https://stands.fosdem.org/stands/openuk/honours.jpeg" width="75%" /></a>
   </center>
